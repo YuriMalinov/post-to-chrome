@@ -1,0 +1,5 @@
+spring.datasource:
+  url: jdbc:postgresql://localhost/post-to-chrome
+  username: post-to-chrome
+  password: post-to-chrome
+  driver-class-name: org.postgresql.Driver
